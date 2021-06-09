@@ -1,0 +1,4 @@
+this is version 1 of project
+i wan thtis to go into commit 2
+changed by hay
+this is changed now
